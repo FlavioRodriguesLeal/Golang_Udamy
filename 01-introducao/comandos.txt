@@ -1,0 +1,14 @@
+Code Runner
+> Ctrl + Alt + n (Execcutar)
+> Ctrl + Alt + m (Parar)
+----------------
+[Running] go run "d:\Users\flavio\Documents\Cursos\Golang\source\01-introducao\teste.go"
+Teste!
+
+[Done] exited with code=0 in 1.172 seconds
+
+
+Terminal
+> go run teste.go
+---------------------
+Teste!

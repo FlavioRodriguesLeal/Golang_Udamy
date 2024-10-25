@@ -1,0 +1,5 @@
+>go run *.go
+CreateFile *.go: The filename, directory name, or volume label syntax is incorrect.
+
+>go run .\main.go .\funcoes.go
+7

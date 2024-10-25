@@ -1,0 +1,30 @@
+>go
+
+> go help get
+
+>go version
+
+
+>godoc -http=:6060
+browser open localhost:6060 - go doc offline
+
+>go env
+
+>go doc cmd/vet
+-mostra documentacao desse comandos - forma simplificado verificar codigo morto, construcao suspeita.
+
+>go vet comandos.go
+
+>go build comandos.go
+Gera um executavel.
+
+>./comandos
+executa o executavel compilado do go.
+
+>go run comandos.go
+executa o programa go.
+
+>go get -u github.com/go-sql-driver/mysql
+go: downloading github.com/go-sql-driver/mysql v1.7.1
+go: added github.com/go-sql-driver/mysql v1.7.1
+
